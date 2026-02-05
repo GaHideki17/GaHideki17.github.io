@@ -187,3 +187,21 @@ footer {
     margin-top: 20px;
     border-top: 1px solid #323238;
 }
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.about p {
+    color: #a8a8b3;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.about strong {
+    color: #e1e1e6;
+    font-weight: bold;
+}
